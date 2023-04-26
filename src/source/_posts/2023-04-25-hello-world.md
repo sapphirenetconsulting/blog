@@ -23,6 +23,8 @@ var text = "the string";
 var number = 1337;
 ```
 
+<script src="https://gist.github.com/nisrulz/11c0d63428b108f10c83.js"></script>
+
 More info: [Writing](https://hexo.io/docs/writing.html)
 
 ### Run server
