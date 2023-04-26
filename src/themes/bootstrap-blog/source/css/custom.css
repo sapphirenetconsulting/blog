@@ -11,7 +11,7 @@
 /* Globals */
 
 body {
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: "Open Sans", sans-serif;
   color: #555;
 }
 
@@ -23,8 +23,8 @@ h5, .h5,
 h6, .h6 {
   margin-top: 1em;
   margin-bottom: 15px;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: normal;
+  font-family: "Roboto Slab", serif;
+  font-weight: bold;
   color: #333;
 }
 

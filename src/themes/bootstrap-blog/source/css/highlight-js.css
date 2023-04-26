@@ -38,7 +38,7 @@
 
 .highlight .comment,
 .highlight .meta {
-  color: #969896;
+  color: #008000;
 }
 
 .highlight .string,
@@ -58,7 +58,8 @@
 .highlight .selector-tag,
 .highlight .type,
 .highlight.javascript .function {
-  color: #a71d5d;
+  color: #0000FF;
+  font-weight: bold;
 }
 
 .highlight .number,
@@ -71,7 +72,7 @@
 .highlight .bullet,
 .highlight .attribute,
 .highlight.css .hexcolor {
-  color: #0086b3;
+  color: #0088FF;
 }
 
 .highlight .section,

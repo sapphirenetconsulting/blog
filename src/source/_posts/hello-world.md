@@ -11,6 +11,18 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 $ hexo new "My New Post"
 ```
 
+``` csharp
+public class Thing
+{
+
+}
+
+// a comment
+var thing = new Thing();
+var text = "the string";
+var number = 1337;
+```
+
 More info: [Writing](https://hexo.io/docs/writing.html)
 
 ### Run server
